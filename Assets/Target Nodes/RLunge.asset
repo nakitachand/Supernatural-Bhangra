@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 214ba9d4c6c98384080702cfaeeec928, type: 3}
+  m_Name: RLunge
+  m_EditorClassIdentifier: 
+  targetName: Right Lunge
+  description: 
+  targetModel: {fileID: 1745546047426392824, guid: 359b51d1f1380b543b9c5080861df9b6,
+    type: 3}
+  targetType: 3
+  targetLocation: 8
+  controllerType: 3
+  sameSide: 1

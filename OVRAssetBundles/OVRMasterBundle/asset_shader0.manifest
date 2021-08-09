@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4288724392
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c372df2eb357aee26b51a8bb6ac8b1ee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/360 Landscape.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/ButtonGlow.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/OculusSampleTrainPropsShader.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/XingLightShader.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/GradientSkybox.shader
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Shaders/OculusSampleTrainSmokeShader.shader
+- Assets/Oculus/SampleFramework/Core/HandsInteraction/Shaders/OculusSampleAlphaHandOutline.shader
+Dependencies: []

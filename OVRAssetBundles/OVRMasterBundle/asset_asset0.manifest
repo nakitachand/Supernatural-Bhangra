@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2566177671
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d052e6ff5274729cc42f054d1843f7c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78b4eb24b215c292a3fbe4dfa013d0e8
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Editor/Cone10v0t0.125b0.2l0.2o.asset
+Dependencies: []
